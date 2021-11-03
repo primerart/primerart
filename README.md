@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @primerart
+- 👋 Hi, I’m @primerart Aarthi
 - 👀 I’m interested in knowing the product architecture, as I think about what we can offer customers. 
 - 🌱 I’m currently learning about Primer's products and customer feedback on how Primer adds value.
 - 💞️ I’m looking to collaborate (rather learn) the architecture
